@@ -1,12 +1,13 @@
 # TSF_GRIP_Task1
-Prediction Using Supervised ML
 
-Problem Statement: Predict the percentage of an student based on the no. of study hours.
+**Prediction Using Supervised ML**
 
-Dataset: http://bit.ly/w-data
+**Problem Statement:** Predict the percentage of an student based on the no. of study hours.
 
-Language: Python
+**Dataset:** http://bit.ly/w-data
 
-Machine Learning Model: Linear Regression
+**Language:** Python
 
-IDE: Jupyter Notebook
+**Machine Learning Model:** Linear Regression
+
+**IDE:** Jupyter Notebook
